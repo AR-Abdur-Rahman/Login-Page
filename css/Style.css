@@ -99,9 +99,11 @@ display: flex;
     background: transparent;
     border: none;
     border-bottom: 1px solid #a39999;
+    outline: none;
 }
 .name input[type='name']:hover{
     border-bottom: 1px solid #5cce93;
+    
 }
 .email{
 }
@@ -110,6 +112,7 @@ display: flex;
 width: 140%;
 
 background: transparent;
+outline: none;
 
 border: none;
 
@@ -122,6 +125,7 @@ form input{
     width: 83%;
     border: none;
     border-bottom: 1px solid #a39999;
+    outline: none;
 }
 form input:hover{
     border-bottom: 1px solid #5cce93;
